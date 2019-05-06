@@ -1,0 +1,48 @@
+# Blender MTL File: 'vase with tulips.blend'
+# Material Count: 5
+
+newmtl Estambre
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.746325 0.800000 0.000000
+Ks 0.141892 0.141892 0.141892
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Exterior_flor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.094595 0.094595 0.094595
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.010
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.098146 0.597561 0.130970
+Ks 0.255208 0.255208 0.255208
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.011
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.246479 0.246479 0.246479
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\win8\Desktop\Mis modelos 3D\Modelos a la venta\Bodegón queso\quesos\textura-pastel-rosa-suave.jpg
+
+newmtl Material.012
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.056078 0.273831 0.000000
+Ks 0.121622 0.121622 0.121622
+Ni 1.000000
+d 1.000000
+illum 2
